@@ -21,18 +21,33 @@ O conteúdo do trabalho abrange os seguintes tópicos:
 
 ### Proposta de Problema
 
-O trabalho deve começar com a proposta de um problema que possa ser resolvido com a modelagem de software.
+Você faz parte de uma equipe de desenvolvimento de software contratada pela prefeitura de uma cidade de médio porte. A prefeitura está enfrentando diversos desafios relacionados à gestão eficiente e transparente dos recursos municipais, atendimento aos cidadãos e modernização dos serviços públicos.
 
-E essa já é sua primeira task! Você deve propor um problema que envolva a modelagem de software. Pesquise sobre problemas e dores reais que possam ser resolvidos com um sistema de software. Pode ser um sistema de gerenciamento, um sistema de informação, um sistema de controle, entre outros.
+Neste contexto, a prefeitura identificou várias necessidades específicas que poderiam ser atendidas por soluções de software inovadoras. Algumas dessas necessidades incluem:
 
-A escolha do sistema deve levar em consideração os seguintes pontos:
+   1. Gestão de Serviços Públicos: A prefeitura precisa de um sistema centralizado para gerenciar os serviços públicos oferecidos à comunidade, como coleta de lixo, manutenção de ruas, iluminação pública, entre outros. Esse sistema deve permitir o agendamento eficiente de serviços, alocação de recursos e acompanhamento em tempo real das atividades realizadas.
 
-- O problema deve ser relevante e ter impacto positivo na sociedade ou em um determinado segmento.
-- O sistema deve ser viável e factível, considerando os recursos necessários para sua implementação.
-- O sistema deve ser escalável e adaptável, permitindo futuras melhorias e expansões.
-- O sistema deve ser bem definido e delimitado, evitando escopos muito amplos ou vagos.
-- O sistema deve ser desafiador e interessante, permitindo a aplicação dos conceitos de modelagem de software.
-- O sistema deve ser inovador e criativo, explorando novas ideias e abordagens.
+   2. Atendimento ao Cidadão:Para melhorar a comunicação e interação com os cidadãos, a prefeitura deseja uma plataforma digital que permita aos residentes relatar problemas, solicitar serviços e fornecer feedback sobre a qualidade dos serviços públicos. Esse sistema deve ser acessível através de dispositivos móveis e garantir uma resposta rápida e eficaz às solicitações dos cidadãos.
+
+   3. Transparência e Prestação de Contas: Em um esforço para promover a transparência e a prestação de contas, a prefeitura pretende disponibilizar informações sobre suas atividades, gastos e decisões para os cidadãos. Isso inclui a criação de um portal de transparência online que ofereça acesso fácil a dados orçamentários, contratos públicos, licitações e outros documentos relevantes.
+
+   4. Gestão de Recursos Humanos: A prefeitura precisa de um sistema de gestão de recursos humanos eficiente para acompanhar o pessoal, processar folhas de pagamento, gerenciar benefícios dos funcionários e facilitar o recrutamento e seleção de novos colaboradores.
+
+   5. Planejamento Urbano e Desenvolvimento: Para promover um crescimento urbano sustentável, a prefeitura busca uma solução de software que auxilie no planejamento urbano, zoneamento, licenciamento de construções e monitoramento ambiental.
+
+Essas são apenas algumas das necessidades de software identificadas pela prefeitura. Como parte da equipe de desenvolvimento, você terá a tarefa de projetar e desenvolver protótipos de soluções de software que atendam a essas necessidades e contribuam para a melhoria da gestão pública e da qualidade de vida dos cidadãos da cidade.
+
+Você poderá selecionar dentre os grandes eixos temáticos para a apresentação de soluções que visem auxiliar na escolha desse sistema.
+
+Eixos Temáticos:
+
+- Trânsito
+- Saúde
+- Educação
+- Emprego e Renda
+- Esportes
+- Cultura
+- Ordem pública e manutenção da cidade
 
 Tenha em mente, que esse tópico, também, será considerado dentro dos critérios de avaliação do trabalho.
 
@@ -106,7 +121,7 @@ Os alunos devem codificar o modelo físico de dados, utilizando uma das estraté
 - O trabalho deve ser original e autoral, respeitando os direitos autorais e as normas de conduta acadêmica.
 - A entrega deve ser realizada dentro do prazo estabelecido, conforme orientações do professor.
 - A entrega deve ser realizado no Ulife, conforme orientações do professor.
- 
+
 ### Critérios de Avaliação
 
 Os trabalhos serão avaliados de acordo com os seguintes critérios:
